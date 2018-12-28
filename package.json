@@ -26,7 +26,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "@polymer/google-apis": "github:GoogleWebComponents/google-apis#3.x",
+    "@google-web-components/google-apis": "^3.0.1",
     "@polymer/iron-resizable-behavior": "^3.0.0-pre.18",
     "@polymer/iron-selector": "^3.0.0-pre.18",
     "@polymer/polymer": "^3.0.0",
