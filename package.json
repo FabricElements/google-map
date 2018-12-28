@@ -27,13 +27,13 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@google-web-components/google-apis": "^3.0.1",
-    "@polymer/iron-resizable-behavior": "^3.0.0-pre.18",
-    "@polymer/iron-selector": "^3.0.0-pre.18",
+    "@polymer/iron-resizable-behavior": "^3.0.1",
+    "@polymer/iron-selector": "^3.0.1",
     "@polymer/polymer": "^3.0.0",
     "@webcomponents/webcomponentsjs": "^2.0.0"
   },
   "devDependencies": {
     "wct-browser-legacy": "^0.0.1-pre.11",
-    "@polymer/iron-component-page": "^3.0.0-pre.18"
+    "@polymer/iron-component-page": "^4.0.1"
   }
 }
